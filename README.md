@@ -1,9 +1,7 @@
 # Power
-Paper on Power in executive-legislative relations
+This repository contains the research paper on defining and measuring presidential power relative to legislative power in Brazilian democracies. Currently, we are in the process of gathering data and compiling relevant literature for a comprehensive review. The current list of papers to be reviewed is available in our [Zotero group](https://www.zotero.org/groups/5576605/paper_power/library).
 
-This is the repository for the paper on how to define and measure president power relative to legislative power in democracies in Brazil. Right now we are starting getting data and listing all relevant paper for a literature review. Current list of papers to be reviewed is available on a Zotero group. https://www.zotero.org/groups/5576605/paper_power/library. 
-Brazilian federal data (2008-2023) are from: https://www.tesourotransparente.gov.br/ckan/dataset/despesas-e-transferencias-totais
-
+Brazilian federal data (2008-2023) are sourced from: [Tesouro Transparente](https://www.tesourotransparente.gov.br/ckan/dataset/despesas-e-transferencias-totais)
 To dos:
 1. Read the literature
 2. Understand in the Brazilian data how to separate discritionary spending (breaking down by executive and legislative appropriation)
